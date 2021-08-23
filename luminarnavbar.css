@@ -1,0 +1,84 @@
+body{
+    /* height: 1800px; */
+    background-color: #f5f8fa;
+}
+.carousel-item img {
+    height: 400px;
+}
+.topnavstyle{
+    background-color: #5e068a;
+    height: 25px;
+}
+a{
+    text-decoration: none;
+}
+.ahov a {
+    /* color: #5e068a; */
+    color: black;
+}
+.ahov a:hover {
+    color: #5e068a;
+    /* color: yellow; */
+}
+h2{
+    color: #5e068a;
+    font-weight: bold;
+}
+.fcol{
+    color: #5e068a99;
+}
+.marg{
+    margin-top: 50px;
+    line-height: 30px;
+    padding-left: 15px;
+}
+.btnn-style{
+    background-color: #5e068a;
+    color: white;
+    height: 50px;
+    width: 130px;
+    border: 1px solid #5e068a;
+    border-radius: 40%;
+    font-weight: bold;
+    font-size: 14px;
+}
+.btnn-style a{
+    color: white;
+}
+.btnn-style a:hover{
+    color: #5e068a;
+}
+.btnn-style:hover{
+    background-color: white;
+    color: #5e068a;
+    border: 1px solid #5e068a;
+}
+.cardstyle1{
+    padding: 20px;
+    height: 420px;
+    margin: 5px;
+    width: 93%;
+    background-color: white;
+}
+.cardstyle1 h5{
+    color: #5e068a;
+}
+.btnn{
+    background-color: #5e068a;
+    color: white;
+    padding: 10px;
+    margin: 8px;
+}
+.cardstyle1 a:hover{
+    color: white;
+}
+.footer-style, .footer-style a{
+    background-color: #29013d;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.ul-style-footer li{
+    /* padding-left: 20px; */
+    list-style: none;
+}
